@@ -2,7 +2,7 @@
  * @author Brayden Thistle
  * @version 1.0.0
  * @date 2025-11-14
- * @fileoverview this program 
+ * @fileoverview this program dispays multiples of 9 up to 12
  */
 
 //equation 1
