@@ -2,7 +2,7 @@
 * @author Brayden Thistle
 * @version 1.0.0
 * @date 2025-11-14
-* @fileoverfiew this program dispays multiples of 9 up to 12
+* @fileoverfiew this program displays multiples of 9 up to 12
 */
 
 package main
